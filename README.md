@@ -1,5 +1,3 @@
-# piggy-bank
-Piggy bank object-oriented programming
 Cofrinho de Moedas
 Descrição
 O Cofrinho de Moedas é um projeto desenvolvido em Java para a disciplina de Programação Orientada a Objetos da UNINTER. O sistema simula um cofrinho virtual que permite adicionar moedas de diferentes tipos (Real, Dolar, Euro), remover moedas específicas, listar todas as moedas armazenadas e calcular o valor total convertido para Reais. O objetivo principal é demonstrar a aplicação dos conceitos de herança e polimorfismo, conforme orientações do professor Leonardo Gomes.
